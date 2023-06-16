@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **rahulrohanroshan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qsq07WMdmi65-xGKoXaASp0JIfYOiaXq/view?usp=sharing](https://drive.google.com/file/d/1qsq07WMdmi65-xGKoXaASp0JIfYOiaXq/view?usp=sharing)
+- 📄 Know about [my experiences](https://drive.google.com/file/d/1qsq07WMdmi65-xGKoXaASp0JIfYOiaXq/view?usp=sharing)
 
-- ⚡ Fun fact **I am funny 😅**
+- ⚡ Fun fact --> **I am funny 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rahul-sharma-giet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-sharma-giet" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahul-sharma-giet" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-sharma-giet" height="30" width="40" /></a>
 <a href="https://instagram.com/rahul___sh___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahul___sh___" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rahulrohanroshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rahulrohanroshan" height="30" width="40" /></a>
 </p>
