@@ -1,4 +1,4 @@
-<img src="https://github.com/rahul-sharma-8092/rahul-sharma-8092/blob/5b49459562d6e0360000629eb8e2ef8b51870e3b/Banner.jpg" alt="Banner">
+![Banner](https://github.com/rahul-sharma-8092/rahul-sharma-8092/blob/main/Banner.jpg)
 
 # 💫 About Me:
 🌱 I’m currently learning React & Express JS<br>💬 Ask me about react<br>📫 How to reach me rahulrohanroshan@gmail.com<br>📄 Know about my [experiences](https://drive.google.com/file/d/1qsq07WMdmi65-xGKoXaASp0JIfYOiaXq/view?usp=sharing)<br>⚡ Fun fact --> I am very funny 😅
